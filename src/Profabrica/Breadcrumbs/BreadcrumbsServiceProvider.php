@@ -13,7 +13,7 @@ class BreadcrumbsServiceProvider extends ServiceProvider {
 	 */
 	public function boot()
 	{
-		$this->package('creitive/breadcrumbs');
+		$this->package('profabrica/breadcrumbs');
 	}
 
 	/**
