@@ -1,5 +1,6 @@
 {
 	"name": "profabrica/breadcrumbs",
+	"version": "1.0.0",
 	"description": "Simple breadcrumbs for Laravel",
 	"keywords":[
 		"laravel",
@@ -7,13 +8,12 @@
 	],
 	"license": "MIT License",
 	"require": {
-		"php": ">=5.3.0",
-		"illuminate/support": "4.x"
+		"php": ">=5.4.0",
+		"illuminate/support": "5.x"
 	},
 	"autoload": {
 		"psr-0": {
 			"Profabrica\\Breadcrumbs\\": "src"
 		}
-	},
-	"minimum-stability": "dev"
+	}
 }
